@@ -25,7 +25,7 @@ Implementing an event-sourced system requires careful design, especially in defi
 ### Consistency
 Maintaining eventual consistency across different read models can be challenging, particularly in distributed systems where network partitions or delays may occur. Strategies like idempotent event handlers and versioning can help mitigate these issues.
 ## References
-https://www.kurrent.io/event-sourcing#:~:text=Event%20Sourcing%20is%20an%20architectural,in%20the%20order%20they%20occurred.
-https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing
-https://en.wikipedia.org/wiki/Event-driven_architecture
-https://arxiv.org/abs/2104.01146
+*https://www.kurrent.io/event-sourcing#:~:text=Event%20Sourcing%20is%20an%20architectural,in%20the%20order%20they%20occurred.
+*https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing
+*https://en.wikipedia.org/wiki/Event-driven_architecture
+*https://arxiv.org/abs/2104.01146
