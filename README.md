@@ -24,8 +24,9 @@ By decoupling the write and read sides, event sourcing can enhance scalability. 
 Implementing an event-sourced system requires careful design, especially in defining the granularity of events and managing their evolution over time. Ensuring that events remain backward compatible is crucial to prevent issues during event replay. 
 ### Consistency
 Maintaining eventual consistency across different read models can be challenging, particularly in distributed systems where network partitions or delays may occur. Strategies like idempotent event handlers and versioning can help mitigate these issues.
+
 ## References
-*https://www.kurrent.io/event-sourcing#text=Event%20Sourcing%20is%20an%20architectural,in%20the%20order%20they%20occurred
+*https://www.kurrent.io/event-sourcing#:~:text=Event%20Sourcing%20is%20an%20architectural,in%20the%20order%20they%20occurred
 
 *https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing
 
