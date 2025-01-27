@@ -1,4 +1,4 @@
-# Life-Skills
+# Event Sourcing
 
 ## Introduction
 Event Sourcing is an architectural design pattern where changes that occur in a domain are immutably stored as events in an append-only log. This provides a business with richer data, as each change within the domain is stored as a sequence of events that can be replayed in the order they occurred. Thus, you can see more than just the current state of your domain you can see what led up to it.
