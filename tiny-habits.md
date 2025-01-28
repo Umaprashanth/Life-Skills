@@ -1,4 +1,4 @@
-# Habit Formation and Behavior Change
+# Tiny-habits
 
 ## 1. What was the most interesting story or idea for you in this video?
 - Big habits can be broken down into tiny habits, tagged with existing habits to achieve the desired outcome.
